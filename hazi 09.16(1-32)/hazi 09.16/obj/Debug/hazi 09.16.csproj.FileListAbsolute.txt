@@ -1,0 +1,7 @@
+D:\online\asztali\hazi 09.16\hazi 09.16\obj\Debug\hazi 09.16.csproj.AssemblyReference.cache
+D:\online\asztali\hazi 09.16\hazi 09.16\obj\Debug\hazi 09.16.csproj.CoreCompileInputs.cache
+D:\online\asztali\hazi 09.16\hazi 09.16\bin\Debug\hazi 09.16.exe.config
+D:\online\asztali\hazi 09.16\hazi 09.16\bin\Debug\hazi 09.16.exe
+D:\online\asztali\hazi 09.16\hazi 09.16\bin\Debug\hazi 09.16.pdb
+D:\online\asztali\hazi 09.16\hazi 09.16\obj\Debug\hazi 09.16.exe
+D:\online\asztali\hazi 09.16\hazi 09.16\obj\Debug\hazi 09.16.pdb

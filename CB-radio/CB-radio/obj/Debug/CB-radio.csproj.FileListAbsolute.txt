@@ -1,0 +1,8 @@
+D:\online\asztali\CB-radio\CB-radio\bin\Debug\CB-radio.exe.config
+D:\online\asztali\CB-radio\CB-radio\bin\Debug\CB-radio.exe
+D:\online\asztali\CB-radio\CB-radio\bin\Debug\CB-radio.pdb
+D:\online\asztali\CB-radio\CB-radio\obj\Debug\CB-radio.csproj.AssemblyReference.cache
+D:\online\asztali\CB-radio\CB-radio\obj\Debug\CB-radio.csproj.CoreCompileInputs.cache
+D:\online\asztali\CB-radio\CB-radio\obj\Debug\CB-radio.exe
+D:\online\asztali\CB-radio\CB-radio\obj\Debug\CB-radio.pdb
+D:\online\asztali\CB-radio\CB-radio\obj\Debug\CB-radio.exe.config
