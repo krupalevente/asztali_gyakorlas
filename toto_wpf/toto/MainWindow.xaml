@@ -1,0 +1,15 @@
+﻿<Window x:Class="toto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Totó ellenőrző" Height="250" Width="400">
+    <StackPanel Margin="10">
+
+        <TextBox Name="txtInput" Text="12X12X12X12X12" TextChanged="TxtInput_TextChanged"/>
+
+        <CheckBox Name="chkHossz" Content="Hibás hossz (0)" IsEnabled="False"/>
+        <CheckBox Name="chkKarakter" Content="Hibás karakterek ()" IsEnabled="False"/>
+
+        <Button Name="btnSave" Content="Eredmények mentése" IsEnabled="False"/>
+
+    </StackPanel>
+</Window>
