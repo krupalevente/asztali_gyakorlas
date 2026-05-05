@@ -1,0 +1,8 @@
+D:\online\asztali\Bukkmaraton\Bukkmaraton\obj\Debug\Bukkmaraton.csproj.AssemblyReference.cache
+D:\online\asztali\Bukkmaraton\Bukkmaraton\obj\Debug\Bukkmaraton.csproj.CoreCompileInputs.cache
+D:\online\asztali\Bukkmaraton\Bukkmaraton\bin\Debug\Bukkmaraton.exe.config
+D:\online\asztali\Bukkmaraton\Bukkmaraton\bin\Debug\Bukkmaraton.exe
+D:\online\asztali\Bukkmaraton\Bukkmaraton\bin\Debug\Bukkmaraton.pdb
+D:\online\asztali\Bukkmaraton\Bukkmaraton\obj\Debug\Bukkmaraton.exe
+D:\online\asztali\Bukkmaraton\Bukkmaraton\obj\Debug\Bukkmaraton.pdb
+D:\online\asztali\Bukkmaraton\Bukkmaraton\obj\Debug\Bukkmaraton.exe.config
