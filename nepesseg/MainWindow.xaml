@@ -1,0 +1,52 @@
+﻿<Window x:Class="adatbovites.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Adatbővítés" Height="320" Width="420"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Ország neve -->
+        <Label Grid.Row="0" Grid.Column="0" Content="Ország neve:" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="0" Grid.Column="1" x:Name="txtOrszagnev" Text="Ország neve" Margin="0,5"/>
+
+        <!-- Terület -->
+        <Label Grid.Row="1" Grid.Column="0" Content="Terület (km²):" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="1" Grid.Column="1" x:Name="txtTerulet" Text="0" Margin="0,5"/>
+
+        <!-- Népesség -->
+        <Label Grid.Row="2" Grid.Column="0" Content="Népesség:" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="2" Grid.Column="1" x:Name="txtNepesseg" Text="0" Margin="0,5"/>
+
+        <!-- Főváros -->
+        <Label Grid.Row="3" Grid.Column="0" Content="Főváros:" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="3" Grid.Column="1" x:Name="txtFovaros" Text="Főváros neve" Margin="0,5"/>
+
+        <!-- Főváros lakossága -->
+        <Label Grid.Row="4" Grid.Column="0" Content="Főváros lakossága:" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="4" Grid.Column="1" x:Name="txtFovarosNepesseg" Text="0" Margin="0,5"/>
+
+        <!-- Gombok -->
+        <StackPanel Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2"
+                    Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,15,0,0">
+            <Button x:Name="btnMentes" Content="Mentés" Width="80" Margin="0,0,10,0"
+                    Click="btnMentes_Click"/>
+            <Button x:Name="btnKilepes" Content="Kilépés" Width="80"
+                    Click="btnKilepes_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
